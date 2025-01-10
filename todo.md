@@ -1,4 +1,4 @@
-### Tennivalók ###
+### Tennivalók
 - Gomb működtetése
 - Input értékeinek kinyerése (Van-e érték??)
 - Karaktert generáló függvény
